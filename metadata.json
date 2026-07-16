@@ -1,1 +1,418 @@
-
+{
+  "exercises": [
+    {
+      "id": "back_extension",
+      "name": "Back Extension",
+      "category": "Back",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Back/Back%20Extension.mp4"
+    },
+    {
+      "id": "bent_over_rows",
+      "name": "Bent Over Rows",
+      "category": "Back",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Back/Bent%20Over%20Rows.mp4"
+    },
+    {
+      "id": "deadlifts",
+      "name": "Deadlifts",
+      "category": "Back",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Back/Deadlifts.mp4"
+    },
+    {
+      "id": "lat_pulldowns",
+      "name": "Lat Pulldowns",
+      "category": "Back",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Back/Lat%20Pulldowns.mp4"
+    },
+    {
+      "id": "pullups",
+      "name": "Pullups",
+      "category": "Back",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Back/Pullups.mp4"
+    },
+    {
+      "id": "reverse_flys",
+      "name": "Reverse Flys",
+      "category": "Back",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Back/Reverse%20Flys.mp4"
+    },
+    {
+      "id": "seated_cable_rows",
+      "name": "Seated Cable Rows",
+      "category": "Back",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Back/Seated%20Cable%20Rows.mp4"
+    },
+    {
+      "id": "single_arm_dumbbell_rows_",
+      "name": "Single Arm Dumbbell Rows ",
+      "category": "Back",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Back/Single%20Arm%20Dumbbell%20Rows%20.mp4"
+    },
+    {
+      "id": "t-bar_rows",
+      "name": "T-Bar Rows",
+      "category": "Back",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Back/T-Bar%20Rows.mp4"
+    },
+    {
+      "id": "bicep_curls",
+      "name": "Bicep Curls",
+      "category": "Biceps",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Biceps/Bicep%20Curls.mp4"
+    },
+    {
+      "id": "hammer_curls",
+      "name": "Hammer Curls",
+      "category": "Biceps",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Biceps/Hammer%20Curls.mp4"
+    },
+    {
+      "id": "preacher_curls",
+      "name": "Preacher Curls",
+      "category": "Biceps",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Biceps/Preacher%20Curls.mp4"
+    },
+    {
+      "id": "bicycle_crunches",
+      "name": "Bicycle Crunches",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Bicycle%20Crunches.mp4"
+    },
+    {
+      "id": "burpees",
+      "name": "Burpees",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Burpees.mp4"
+    },
+    {
+      "id": "crunches",
+      "name": "Crunches",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Crunches.mp4"
+    },
+    {
+      "id": "cycling",
+      "name": "Cycling",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Cycling.mp4"
+    },
+    {
+      "id": "elliptical_crossfit_2",
+      "name": "Elliptical Crossfit 2",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Elliptical%20Crossfit%202.mp4"
+    },
+    {
+      "id": "elliptical_crossfit",
+      "name": "Elliptical Crossfit",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Elliptical%20Crossfit.mp4"
+    },
+    {
+      "id": "jump_rope",
+      "name": "Jump Rope",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Jump%20Rope.mp4"
+    },
+    {
+      "id": "jumping_jacks",
+      "name": "Jumping Jacks",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Jumping%20Jacks.mp4"
+    },
+    {
+      "id": "leg_raises",
+      "name": "Leg Raises",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Leg%20Raises.mp4"
+    },
+    {
+      "id": "mountain_climbers",
+      "name": "Mountain Climbers",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Mountain%20Climbers.mp4"
+    },
+    {
+      "id": "plank",
+      "name": "Plank",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Plank.mp4"
+    },
+    {
+      "id": "running",
+      "name": "Running",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Running.mp4"
+    },
+    {
+      "id": "russian_twists",
+      "name": "Russian Twists",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Russian%20Twists.mp4"
+    },
+    {
+      "id": "squat_jumps_2",
+      "name": "Squat Jumps 2",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Squat%20Jumps%202.mp4"
+    },
+    {
+      "id": "squat_jumps",
+      "name": "Squat Jumps",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Squat%20Jumps.mp4"
+    },
+    {
+      "id": "stair_climbers",
+      "name": "Stair Climbers",
+      "category": "Cardio",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Cardio/Stair%20Climbers.mp4"
+    },
+    {
+      "id": "bench_press",
+      "name": "Bench Press",
+      "category": "Chest",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Chest/Bench%20Press.mp4"
+    },
+    {
+      "id": "dips",
+      "name": "Dips",
+      "category": "Chest",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Chest/Dips.mp4"
+    },
+    {
+      "id": "dumbbell_flys",
+      "name": "Dumbbell Flys",
+      "category": "Chest",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Chest/Dumbbell%20Flys.mp4"
+    },
+    {
+      "id": "incline_bench_press",
+      "name": "Incline Bench Press",
+      "category": "Chest",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Chest/Incline%20Bench%20Press.mp4"
+    },
+    {
+      "id": "incline_chest_press_machine",
+      "name": "Incline Chest Press Machine",
+      "category": "Chest",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Chest/Incline%20Chest%20Press%20Machine.mp4"
+    },
+    {
+      "id": "pushups",
+      "name": "Pushups",
+      "category": "Chest",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Chest/Pushups.mp4"
+    },
+    {
+      "id": "bulgarian_split_squats",
+      "name": "Bulgarian Split Squats",
+      "category": "Legs",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Legs/Bulgarian%20Split%20Squats.mp4"
+    },
+    {
+      "id": "calf_raises",
+      "name": "Calf Raises",
+      "category": "Legs",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Legs/Calf%20Raises.mp4"
+    },
+    {
+      "id": "hamstring_curls",
+      "name": "Hamstring Curls",
+      "category": "Legs",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Legs/Hamstring%20Curls.mp4"
+    },
+    {
+      "id": "leg_extensions",
+      "name": "Leg Extensions",
+      "category": "Legs",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Legs/Leg%20Extensions.mp4"
+    },
+    {
+      "id": "leg_press",
+      "name": "Leg Press",
+      "category": "Legs",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Legs/Leg%20Press.mp4"
+    },
+    {
+      "id": "lunges",
+      "name": "Lunges",
+      "category": "Legs",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Legs/Lunges.mp4"
+    },
+    {
+      "id": "squats",
+      "name": "Squats",
+      "category": "Legs",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Legs/Squats.mp4"
+    },
+    {
+      "id": "arnold_press",
+      "name": "Arnold Press",
+      "category": "Shoulders",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Shoulders/Arnold%20Press.mp4"
+    },
+    {
+      "id": "front_raises",
+      "name": "Front Raises",
+      "category": "Shoulders",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Shoulders/Front%20Raises.mp4"
+    },
+    {
+      "id": "lateral_raises",
+      "name": "Lateral Raises",
+      "category": "Shoulders",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Shoulders/Lateral%20Raises.mp4"
+    },
+    {
+      "id": "overhead_press_2",
+      "name": "Overhead Press 2",
+      "category": "Shoulders",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Shoulders/Overhead%20Press%202.mp4"
+    },
+    {
+      "id": "overhead_press",
+      "name": "Overhead Press",
+      "category": "Shoulders",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Shoulders/Overhead%20Press.mp4"
+    },
+    {
+      "id": "shoulder_press",
+      "name": "Shoulder Press",
+      "category": "Shoulders",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Shoulders/Shoulder%20Press.mp4"
+    },
+    {
+      "id": "shoulder_shrugs",
+      "name": "Shoulder Shrugs",
+      "category": "Shoulders",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Shoulders/Shoulder%20Shrugs.mp4"
+    },
+    {
+      "id": "cable_tricep_extension",
+      "name": "Cable Tricep Extension",
+      "category": "Triceps",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Triceps/Cable%20Tricep%20Extension.mp4"
+    },
+    {
+      "id": "dips_(triceps_focus)",
+      "name": "Dips (Triceps focus)",
+      "category": "Triceps",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Triceps/Dips%20(Triceps%20focus).mp4"
+    },
+    {
+      "id": "tricep_pushdowns",
+      "name": "Tricep Pushdowns",
+      "category": "Triceps",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Triceps/Tricep%20Pushdowns.mp4"
+    },
+    {
+      "id": "adho_mukha_svanasana_(downward_dog)",
+      "name": "Adho Mukha Svanasana (Downward Dog)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Adho%20Mukha%20Svanasana%20(Downward%20Dog).mp4"
+    },
+    {
+      "id": "balasana_(child's_pose)",
+      "name": "Balasana (Child's Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Balasana%20(Child's%20Pose).mp4"
+    },
+    {
+      "id": "bhujangasana_(cobra_pose)",
+      "name": "Bhujangasana (Cobra Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Bhujangasana%20(Cobra%20Pose).mp4"
+    },
+    {
+      "id": "dhanurasana_(bow_pose)",
+      "name": "Dhanurasana (Bow Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Dhanurasana%20(Bow%20Pose).mp4"
+    },
+    {
+      "id": "halasana_(plow_pose)_2",
+      "name": "Halasana (Plow Pose) 2",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Halasana%20(Plow%20Pose)%202.mp4"
+    },
+    {
+      "id": "halasana_(plow_pose)",
+      "name": "Halasana (Plow Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Halasana%20(Plow%20Pose).mp4"
+    },
+    {
+      "id": "kursasana_(chair_pose)",
+      "name": "Kursasana (Chair Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Kursasana%20(Chair%20Pose).mp4"
+    },
+    {
+      "id": "naukasana_(boat_pose)",
+      "name": "Naukasana (Boat Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Naukasana%20(Boat%20Pose).mp4"
+    },
+    {
+      "id": "padmasana_(lotus_pose)",
+      "name": "Padmasana (Lotus Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Padmasana%20(Lotus%20Pose).mp4"
+    },
+    {
+      "id": "paschimottanasana_(forward_bend)",
+      "name": "Paschimottanasana (Forward Bend)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Paschimottanasana%20(Forward%20Bend).mp4"
+    },
+    {
+      "id": "setu_bandhasana_(bridge_pose)",
+      "name": "Setu Bandhasana (Bridge Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Setu%20Bandhasana%20(Bridge%20Pose).mp4"
+    },
+    {
+      "id": "shavasana_(corpse_pose)",
+      "name": "Shavasana (Corpse Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Shavasana%20(Corpse%20Pose).mp4"
+    },
+    {
+      "id": "trikonasana_(triangle_pose)",
+      "name": "Trikonasana (Triangle Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Trikonasana%20(Triangle%20Pose).mp4"
+    },
+    {
+      "id": "ustrasana_(camel_pose)",
+      "name": "Ustrasana (Camel Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Ustrasana%20(Camel%20Pose).mp4"
+    },
+    {
+      "id": "vajrasana_(thunderbolt_pose)",
+      "name": "Vajrasana (Thunderbolt Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Vajrasana%20(Thunderbolt%20Pose).mp4"
+    },
+    {
+      "id": "virabhadrasana_(warrior_pose)",
+      "name": "Virabhadrasana (Warrior Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Virabhadrasana%20(Warrior%20Pose).mp4"
+    },
+    {
+      "id": "vrikshasana_(tree_pose)_2",
+      "name": "Vrikshasana (Tree Pose) 2",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Vrikshasana%20(Tree%20Pose)%202.mp4"
+    },
+    {
+      "id": "vrikshasana_(tree_pose)",
+      "name": "Vrikshasana (Tree Pose)",
+      "category": "Yoga and Stretches",
+      "url": "https://raw.githubusercontent.com/Sunless72/Equilibrium-Assets/main/Exercises/Yoga%20and%20Stretches/Vrikshasana%20(Tree%20Pose).mp4"
+    }
+  ]
+}
